@@ -32,19 +32,18 @@ Installation
 
 
 
-Compile the project: You can compile the code using the javac command:
+```Compile the project: You can compile the code using the javac command:
+     javac ChatServer.java ChatClient.java ChatClientGUI.java
+```
 
-- bash javac ChatServer.java ChatClient.java ChatClientGUI.java
+```Run the server: In one terminal, run the server:
+    java ChatServer
 
+```
+```Run the client: In separate terminals, run multiple clients:
 
-##Run the server: In one terminal, run the server:
-
-##bash java ChatServer
-
-##Run the client: In separate terminals, run multiple clients:
-
-##bash java ChatClientGUI
-
+     java ChatClientGUI
+```
 Usage
 
     Enter your name: Upon starting the client application, you will be prompted to enter your name.
