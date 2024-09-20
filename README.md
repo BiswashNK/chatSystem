@@ -5,18 +5,18 @@ Features
 
 - Multiple Clients: Server supports multiple clients to connect and chat simultaneously.
 
--Real-time Messaging: Messages are sent and received in real-time using Java sockets.
--Chat History: New clients receive the entire chat history upon joining the server.
--User-Friendly GUI: The client application is designed with a modern graphical user interface using Java Swing.
--Graceful Disconnection: Clients can exit the chat, and the server handles the disconnection gracefully.
--Server-Side Management: The server broadcasts messages to all connected clients and maintains a list of active users.
+- Real-time Messaging: Messages are sent and received in real-time using Java sockets.
+- Chat History: New clients receive the entire chat history upon joining the server.
+- User-Friendly GUI: The client application is designed with a modern graphical user interface using Java Swing.
+- Graceful Disconnection: Clients can exit the chat, and the server handles the disconnection gracefully.
+- Server-Side Management: The server broadcasts messages to all connected clients and maintains a list of active users.
 
 Technologies Used
 
--Java Swing: For building the client-side graphical user interface.
--Java Sockets: For managing server-client communication.
--Multithreading: To handle multiple clients and asynchronous communication.
--Java I/O Streams: For reading and writing data between the server and clients.
+- Java Swing: For building the client-side graphical user interface.
+- Java Sockets: For managing server-client communication.
+- Multithreading: To handle multiple clients and asynchronous communication.
+- Java I/O Streams: For reading and writing data between the server and clients.
 
 Getting Started
 Prerequisites
