@@ -31,17 +31,16 @@ Installation
 
 
 
-
-```Compile the project: You can compile the code using the javac command:
+Compile the project: You can compile the code using the javac command:
+```
      javac ChatServer.java ChatClient.java ChatClientGUI.java
 ```
-
-```Run the server: In one terminal, run the server:
-    java ChatServer
-
+Run the server: In one terminal, run the server:
 ```
-```Run the client: In separate terminals, run multiple clients:
-
+    java ChatServer
+```
+Run the client: In separate terminals, run multiple clients:
+```
      java ChatClientGUI
 ```
 Usage
