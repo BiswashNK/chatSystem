@@ -25,12 +25,12 @@ Prerequisites
 
 Installation
 
-    Clone the repository:
+    Clone the repository: git clone https://github.com/biswashNK/chatSystem
 
-    bash
+    bash: cd chatSystem
 
-git clone https://github.com/biswashNK/chatSystem
-cd chatSystem
+
+
 
 Compile the project: You can compile the code using the javac command:
 
