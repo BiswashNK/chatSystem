@@ -3,7 +3,8 @@ Java Swing Chat System
 A Java-based chat application with a graphical user interface (GUI) built using Java Swing. This system includes a server and multiple clients, where users can send and receive messages in real-time. The server manages the chat history, and new clients receive the entire chat history upon connection.
 Features
 
--Multiple Clients: Server supports multiple clients to connect and chat simultaneously.
+- Multiple Clients: Server supports multiple clients to connect and chat simultaneously.
+
 -Real-time Messaging: Messages are sent and received in real-time using Java sockets.
 -Chat History: New clients receive the entire chat history upon joining the server.
 -User-Friendly GUI: The client application is designed with a modern graphical user interface using Java Swing.
